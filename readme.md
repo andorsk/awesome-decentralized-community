@@ -4,14 +4,31 @@
 
 ## Conferences
 
+- [BCRA](https://conf.researchr.org/home/bcra-2024) : Discusses advanced
+  applications, technologies, and theories in blockchain research.
+- [Blockchain Expo World](https://blockchainexpoworld.com/en/) : International
+  blockchain fair.
 - [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s a
   large gathering focused on crypto and blockchain.
-- [European Identity and Cloud Conference
-2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for
-the Digital ID Multiverse
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
   The Summit & meetup is a two-day event for high level discussions among
   leaders from around the globe working on decentralized technologies.
+- [European Identity and Cloud Conference
+2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for
+the Digital ID Multiverse
+- [IEEE DAPPS](https://ieeedapps.com/) : Facilitate the exchange between
+  researchers and practitioners in the area of Decentralized Applications
+  (dApps) based on Distributed Ledger Technologies, Blockchains and related
+  technologies
+- [International Congress on Blockchain and
+  Applications](https://www.blockchain-congress.net/) : This annual congress
+  will bring together researchers and practitioners of blockchain and other
+  distributed ledger technologies (DLT), who will share ideas, projects,
+  lectures, and advances associated with those technologies and their
+  application domains.
+- [Penn Blockchain Conference](https://www.pennblockchain.com/) : Seeks to
+  bridge the gap between academia and industry in the pursuit of building and
+  using decentralized systems
 
 ## Hackathons
 
@@ -44,6 +61,7 @@ the Digital ID Multiverse
 - [Brinc](https://www.brinc.io/) : Brinc is a venture accelerator firm founded
   in Hong Kong in 2014. Brinc has offices in Hong Kong, Bahrain, Dubai, and
   India.
+- []
 
 ## Workshops
 
