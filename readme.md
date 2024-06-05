@@ -2,6 +2,17 @@
 
 > A list of awesome decentralized hackathons that are NOT tied to a specific blockchain.
 
+## Conferences
+
+- [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s a
+  large gathering focused on crypto and blockchain.
+- [European Identity and Cloud Conference
+2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for
+the Digital ID Multiverse
+- [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
+  The Summit & meetup is a two-day event for high level discussions among
+  leaders from around the globe working on decentralized technologies.
+
 ## Hackathons
 
 - [Decentralized Identity Foundation](https://difhackathon.devpost.com/) :
@@ -28,22 +39,18 @@
 - [Summer of Protocols](https://summerofprotocols.com/) : Runs a number of
   programs and grant cohorts.
 
+## Venture 
+
+- [Brinc](https://www.brinc.io/) : Brinc is a venture accelerator firm founded
+  in Hong Kong in 2014. Brinc has offices in Hong Kong, Bahrain, Dubai, and
+  India.
+
 ## Workshops
 
 - [Internet Identity Workshop](https://internetidentityworkshop.com/) :
   Unconference around user centric identity located in North America.
 - [DWeb Camp](https://dwebcamp.org/) : Camp in the nature and discuss
   decentralized web projects for a week. 
-
-## Conferences
-
-- [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s
-  a large gathering focused on crypto and blockchain.
-- [European Identity and Cloud Conference
-2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for the Digital ID Multiverse
-- [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
-  The Summit & meetup is a two-day event for high level discussions among
-  leaders from around the globe working on decentralized technologies.
 
 ## Contribute
 
