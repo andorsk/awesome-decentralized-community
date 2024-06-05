@@ -37,6 +37,8 @@
 
 ## Conferences
 
+- [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s
+  a large gathering focused on crypto and blockchain.
 - [European Identity and Cloud Conference
 2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for the Digital ID Multiverse
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
