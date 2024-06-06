@@ -10,6 +10,9 @@
   blockchain fair.
 - [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s a
   large gathering focused on crypto and blockchain.
+- [DICE](https://diceurope.org/) : Intent to foster collaboration and work
+  together on the adoption of a dignified digital identity between governments,
+  citizens, and companies across Europe.
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
   The Summit & meetup is a two-day event for high level discussions among
   leaders from around the globe working on decentralized technologies.
@@ -68,7 +71,6 @@ the Digital ID Multiverse
 - [Brinc](https://www.brinc.io/) : Brinc is a venture accelerator firm founded
   in Hong Kong in 2014. Brinc has offices in Hong Kong, Bahrain, Dubai, and
   India.
-- []
 
 ## Workshops
 
@@ -76,6 +78,12 @@ the Digital ID Multiverse
   Unconference around user centric identity located in North America.
 - [DWeb Camp](https://dwebcamp.org/) : Camp in the nature and discuss
   decentralized web projects for a week. 
+- [Blockchain Technology Symposium](https://bts23.encs.concordia.ca/) : A forum
+  where academic researchers, industry professionals, and decision makers come
+  together to present recent advancements, discuss adoption barriers, tackle
+  common challenges, and explore future roadmaps surrounding blockchain and its
+  related technologies such as consensus algorithms, smart contracts,
+  cryptocurrencies, and distributed ledger technologies.
 
 ## Contribute
 
