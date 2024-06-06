@@ -32,6 +32,9 @@ the Digital ID Multiverse
 
 ## Hackathons
 
+- [Blockchain Summer Institute
+  Blockathon](https://blockchain.ubc.ca/blockchain-summer-institute-blockathon-2023) :
+  Theme based hackathons hosted by UBC
 - [Decentralized Identity Foundation](https://difhackathon.devpost.com/) :
   Hackathon hosted by the Decentralized Identity Foundation.
 - [Developer Week](https://developerweek-2024-hackathon.devpost.com/) : One of
@@ -55,6 +58,10 @@ the Digital ID Multiverse
 
 - [Summer of Protocols](https://summerofprotocols.com/) : Runs a number of
   programs and grant cohorts.
+- [UBC Blockchain Program](https://blockchain.ubc.ca/) : multidisciplinary
+  research cluster focusing on blockchain technology as a central component in
+  investigating the broader research question “How can emerging technologies be
+  leveraged to benefit Canadians and the world?”
 
 ## Venture 
 
