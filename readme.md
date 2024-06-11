@@ -32,6 +32,7 @@ the Digital ID Multiverse
 - [Penn Blockchain Conference](https://www.pennblockchain.com/) : Seeks to
   bridge the gap between academia and industry in the pursuit of building and
   using decentralized systems
+- [Identity Week Amsterdam](https://www.terrapinn.com/exhibition/identity-week/index.stm) :  Conference and exhibition bringing together the brightest minds in the identity sector to promote innovation, new thinking, and more effective identity solutions.
 
 ## Hackathons
 
