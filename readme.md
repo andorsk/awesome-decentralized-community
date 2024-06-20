@@ -85,6 +85,11 @@ the Digital ID Multiverse
   common challenges, and explore future roadmaps surrounding blockchain and its
   related technologies such as consensus algorithms, smart contracts,
   cryptocurrencies, and distributed ledger technologies.
+- [RWOT](https://www.weboftrust.info) : Rebooting the Web of Trust (RWOT) is a unique event that brings together professionals,
+  researchers, and enthusiasts to collaborate on decentralized identity and trust solutions. Their goal is to support our community
+  in generating and developing ideas that allow us to better remain in control of our assets, our accounts, and ourselves online!
+- [DICE](https://diceurope.org/) : Europe's version of IIW. 
+
 
 ## Contribute
 
