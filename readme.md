@@ -13,13 +13,13 @@
 - [DICE](https://diceurope.org/) : Intent to foster collaboration and work
   together on the adoption of a dignified digital identity between governments,
   citizens, and companies across Europe.
-- [International Workshop on Emerging Digital Identities](https://www.ares-conference.eu) : The International Conference on Availability, Reliability and Security.
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
   The Summit & meetup is a two-day event for high level discussions among
   leaders from around the globe working on decentralized technologies.
 - [European Identity and Cloud Conference
 2024](https://www.kuppingercole.com/events/eic2024) : Europe’s Place to Be for
 the Digital ID Multiverse
+- [Identity Week Amsterdam](https://www.terrapinn.com/exhibition/identity-week/index.stm) :  Conference and exhibition bringing together the brightest minds in the identity sector to promote innovation, new thinking, and more effective identity solutions.
 - [IEEE DAPPS](https://ieeedapps.com/) : Facilitate the exchange between
   researchers and practitioners in the area of Decentralized Applications
   (dApps) based on Distributed Ledger Technologies, Blockchains and related
@@ -30,10 +30,10 @@ the Digital ID Multiverse
   distributed ledger technologies (DLT), who will share ideas, projects,
   lectures, and advances associated with those technologies and their
   application domains.
+- [International Workshop on Emerging Digital Identities](https://www.ares-conference.eu) : The International Conference on Availability, Reliability and Security.
 - [Penn Blockchain Conference](https://www.pennblockchain.com/) : Seeks to
   bridge the gap between academia and industry in the pursuit of building and
   using decentralized systems
-- [Identity Week Amsterdam](https://www.terrapinn.com/exhibition/identity-week/index.stm) :  Conference and exhibition bringing together the brightest minds in the identity sector to promote innovation, new thinking, and more effective identity solutions.
 
 ## Hackathons
 
@@ -91,7 +91,6 @@ the Digital ID Multiverse
   researchers, and enthusiasts to collaborate on decentralized identity and trust solutions. Their goal is to support our community
   in generating and developing ideas that allow us to better remain in control of our assets, our accounts, and ourselves online!
 - [DICE](https://diceurope.org/) : Europe's version of IIW. 
-
 
 ## Contribute
 
