@@ -13,6 +13,7 @@
 - [DICE](https://diceurope.org/) : Intent to foster collaboration and work
   together on the adoption of a dignified digital identity between governments,
   citizens, and companies across Europe.
+- [International Workshop on Emerging Digital Identities](https://www.ares-conference.eu) : The International Conference on Availability, Reliability and Security.
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
   The Summit & meetup is a two-day event for high level discussions among
   leaders from around the globe working on decentralized technologies.
@@ -77,6 +78,7 @@ the Digital ID Multiverse
 
 - [Internet Identity Workshop](https://internetidentityworkshop.com/) :
   Unconference around user centric identity located in North America.
+- [DID UnConf: Africa](https://didunconf.africa/) : DID:UNCONF AFRICA brings together local and international innovators, leaders, and activists to reshape the future of digital identity in the SADC region.
 - [DWeb Camp](https://dwebcamp.org/) : Camp in the nature and discuss
   decentralized web projects for a week. 
 - [Blockchain Technology Symposium](https://bts23.encs.concordia.ca/) : A forum
