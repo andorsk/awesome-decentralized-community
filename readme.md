@@ -77,6 +77,7 @@ the Digital ID Multiverse
 
 ## Workshops
 
+- [TPAC](https://www.w3.org/news-events/w3c-tpac/) : The W3C annual conference aims to coordinate solutions to technical issues by gathering in a single event several meetings between the W3C Members and Boards, W3C Working and Interest Groups, as well as a series of breakout sessions determined by the attendees.
 - [Internet Identity Workshop](https://internetidentityworkshop.com/) :
   Unconference around user centric identity located in North America.
 - [DID UnConf: Africa](https://didunconf.africa/) : DID:UNCONF AFRICA brings together local and international innovators, leaders, and activists to reshape the future of digital identity in the SADC region.
