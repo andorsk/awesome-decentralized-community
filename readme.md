@@ -69,6 +69,7 @@ the Digital ID Multiverse
   leveraged to benefit Canadians and the world?”
 - [Digital Infrastructure Insights Fund RFP](https://fordfoundation.forms.fm/2024-digital-infrastructure-insights-fund-rfp/forms/9861) : The funders circle sustains a platform for academics and practitioners to better understand how open digital infrastructure is built and deployed. 
 - [SovereignTechFund](https://www.sovereigntechfund.de/) : The Sovereign Tech Fund supports the development, improvement, and maintenance of open digital infrastructure.
+- [NSF 24-606: Pathways to Enable Open-Source Ecosystems][https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606/solicitation)
 ## Venture 
 
 - [Brinc](https://www.brinc.io/) : Brinc is a venture accelerator firm founded
