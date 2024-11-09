@@ -94,6 +94,7 @@ the Digital ID Multiverse
   researchers, and enthusiasts to collaborate on decentralized identity and trust solutions. Their goal is to support our community
   in generating and developing ideas that allow us to better remain in control of our assets, our accounts, and ourselves online!
 - [DICE](https://diceurope.org/) : Europe's version of IIW. 
+- [DID-based Cross-Border Identity Summit]https://www.eventbrite.hk/e/did-based-cross-border-identity-summit-hong-kong-tickets-1064080887579): Exploration of cross-border zero-PII KYC use cases.
 
 ## Contribute
 
