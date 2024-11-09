@@ -1,4 +1,4 @@
-# awesome-decentralized-community [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-decentralized-communities[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of awesome decentralized hackathons that are NOT tied to a specific blockchain.
 
