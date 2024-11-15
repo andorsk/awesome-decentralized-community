@@ -34,6 +34,7 @@ the Digital ID Multiverse
 - [Penn Blockchain Conference](https://www.pennblockchain.com/) : Seeks to
   bridge the gap between academia and industry in the pursuit of building and
   using decentralized systems
+- [Nonprofit Software Development Summit](https://aspirationtech.org/events/devsummit24) : Community that comes together from around the world to share knowledge, build relationships, and collectively envision the future of free, open and equitable digital tools and practices to support social change. ( Annual ~November)
 
 ## Hackathons
 
